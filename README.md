@@ -12,3 +12,5 @@ jadbjdjbd...
 
 
 [a link](https://github.com/Ranjith811/Ranweb/blob/main/aboutme.md)
+
+I just love **bold text**
